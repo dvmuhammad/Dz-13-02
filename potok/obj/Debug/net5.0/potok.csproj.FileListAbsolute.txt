@@ -1,0 +1,16 @@
+C:\Users\Мухаммад\Documents\Projects\potok\bin\Debug\net5.0\potok.exe
+C:\Users\Мухаммад\Documents\Projects\potok\bin\Debug\net5.0\potok.deps.json
+C:\Users\Мухаммад\Documents\Projects\potok\bin\Debug\net5.0\potok.runtimeconfig.json
+C:\Users\Мухаммад\Documents\Projects\potok\bin\Debug\net5.0\potok.runtimeconfig.dev.json
+C:\Users\Мухаммад\Documents\Projects\potok\bin\Debug\net5.0\potok.dll
+C:\Users\Мухаммад\Documents\Projects\potok\bin\Debug\net5.0\ref\potok.dll
+C:\Users\Мухаммад\Documents\Projects\potok\bin\Debug\net5.0\potok.pdb
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\potok.csprojAssemblyReference.cache
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\potok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\potok.AssemblyInfoInputs.cache
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\potok.AssemblyInfo.cs
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\potok.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\potok.dll
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\ref\potok.dll
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\potok.pdb
+C:\Users\Мухаммад\Documents\Projects\potok\obj\Debug\net5.0\potok.genruntimeconfig.cache
