@@ -17,7 +17,7 @@ namespace potok
             Program.clients.Add(new Client(){Id = id,Balance = zedball});
             Program.balances.Add(new Client(){Id = id,Balance = zedball});
             Console.WriteLine("Successfully added client with Id " + id);
-            return;
+            
         }
         
         public void Update(int id,decimal zedball)
@@ -28,7 +28,7 @@ namespace potok
                 if (id == Program.clients[i].Id)
                 {
                     Program.clients[i].Balance = zedball;
-                    return;
+                    
                 }
             }
         }
@@ -40,7 +40,7 @@ namespace potok
                 {
                     Console.WriteLine("ID: "+Program.clients[i].Id);
                     Console.WriteLine("Balance: "+Program.clients[i].Balance);
-                    return;
+                    
                 }
             }
         }
@@ -51,7 +51,7 @@ namespace potok
               if(id == Program.clients[i].Id)
                 {
                     Program.clients.RemoveAt(i);
-                    return;
+                    
                 }  
             } 
         }
